@@ -22,6 +22,6 @@ while True:
 
 
     print (''.join(reverse(input)))
-	```
+```
 
 > ...
