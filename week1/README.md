@@ -17,21 +17,21 @@ for i in range(0,3) :
         break
     else:
         print("Lütfen belirtilen operatörlerden birini giriniz")  
-		```
+```
 		
-		> ...
+> ...
 		
-		### • hw2.py:
-		```python
+### • hw2.py:
+```python
 		a=0
-b=1
-sayi = int(input("Ýstediðiniz sayýnýn sýrasýný giriniz:"))
-for i in range(0,sayi):
-    print(b)
-    c=a
-    a=b
-    b=c+b   
+		b=1
+		sayi = int(input("Ýstediðiniz sayýnýn sýrasýný giriniz:"))
+		for i in range(0,sayi):
+		print(b)
+		c=a
+		a=b
+		b=c+b   
 	
-			```
-			> ...
+```
+> ...
 			

@@ -16,9 +16,9 @@ import random
 	for i in range (len(arr)):
 	    total += arr[i]
 	print ("Duplicate Num: ", total - x)
-	```
-	### • hw2.py:
-	```python
+```
+### • hw2.py:
+```python
 	while True:
 	    num1 = input("Num 1: ")
 	    num1 = int(num1) - 1
@@ -28,10 +28,10 @@ import random
 	    str2 = str[num2:]
 	    str = str[:num1]
 	    print (str,str2)
-		```
+```
 		
-		### • hw3.py:
-	```python
+### • hw3.py:
+```python
 	while True:
 	    num1 = input("Num 1: ")
 	    num1 = int(num1) - 1
@@ -41,14 +41,14 @@ import random
 	    str2 = str[num2:]
 	    str = str[:num1]
 	    print (str,str2)
-		```
+```
 		
-		### • hw4.py:
-	```python
+### • hw4.py:
+```python
 	while True:
 	    str = input(": ")
 	    if str == str[::-1]:
 		    print ("Polindrome")
 	    else:
 		    print ("Not Polindrome")
-			```
+```
